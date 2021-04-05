@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<p>Step1. install node.js <br>
+  Step2. run command  <code>npx create-react-app reacttodo</code> on your terminal</p> 
 ## Available Scripts
 
 In the project directory, you can run:
